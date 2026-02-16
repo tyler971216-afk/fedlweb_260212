@@ -16,7 +16,7 @@ export const RESEARCH_AREAS: ResearchArea[] = [
   {
     id: '3',
     title: 'Neural Sensors and Brain-Computer Interfaces',
-    description: 'Developing minimally invasive, high-resolution neural implants and interface systems using 2D materials for advanced brain-machine communication.',
+    description: 'Developing ultrathin, active neural implant systems enabled by 2D materials for high-fidelity and minimally invasive brain–computer interfacing',
     icon: 'Brain'
   }
 ];
