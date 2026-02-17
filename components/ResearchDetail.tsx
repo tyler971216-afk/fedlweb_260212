@@ -56,9 +56,6 @@ const ResearchDetail: React.FC<ResearchDetailProps> = ({ type, onBack }) => {
                     alt="Synthesis of various 2D materials" 
                     className="w-full h-auto object-contain transform group-hover:scale-105 transition-transform duration-700"
                   />
-                  <div className="mt-4 pt-4 border-t border-slate-100 text-center italic text-sm text-slate-500">
-                    CVD & Solution-based 2D material synthesis
-                  </div>
                 </div>
               </div>
             </div>
@@ -85,9 +82,6 @@ const ResearchDetail: React.FC<ResearchDetailProps> = ({ type, onBack }) => {
                     alt="2D material based ultra-thin devices" 
                     className="w-full h-auto object-contain transform group-hover:scale-105 transition-transform duration-700"
                   />
-                  <div className="mt-4 pt-4 border-t border-slate-100 text-center italic text-sm text-slate-500">
-                    Integrated 2D material device arrays
-                  </div>
                 </div>
               </div>
             </div>
@@ -146,9 +140,6 @@ const ResearchDetail: React.FC<ResearchDetailProps> = ({ type, onBack }) => {
                     alt="Roll based transfer technique" 
                     className="w-full h-auto object-contain transform group-hover:scale-105 transition-transform duration-700"
                   />
-                  <div className="mt-4 pt-4 border-t border-slate-100 text-center italic text-sm text-slate-500">
-                    Schematic of Roll-to-Roll (R2R) transfer process
-                  </div>
                 </div>
               </div>
             </div>
@@ -175,9 +166,6 @@ const ResearchDetail: React.FC<ResearchDetailProps> = ({ type, onBack }) => {
                     alt="Inorganic flexible devices" 
                     className="w-full h-auto object-contain transform group-hover:scale-105 transition-transform duration-700"
                   />
-                  <div className="mt-4 pt-4 border-t border-slate-100 text-center italic text-sm text-slate-500">
-                    High-performance inorganic stretchable circuits
-                  </div>
                 </div>
               </div>
             </div>
@@ -210,7 +198,7 @@ const ResearchDetail: React.FC<ResearchDetailProps> = ({ type, onBack }) => {
               <ArrowLeft size={20} className="transform group-hover:-translate-x-1 transition-transform" />
               <span className="text-sm font-bold uppercase tracking-widest">Back to Overview</span>
             </button>
-            <h1 className="text-5xl md:text-6xl font-black tracking-tight mb-6 detail-fade text-white leading-tight">Neural Sensors</h1>
+            <h1 className="text-5xl md:text-6xl font-black tracking-tight mb-6 detail-fade text-white leading-tight">Neural Sensors and Brain-Computer Interfaces</h1>
           </div>
         </div>
 
@@ -221,24 +209,22 @@ const ResearchDetail: React.FC<ResearchDetailProps> = ({ type, onBack }) => {
                 <div className="flex items-center space-x-4 mb-6">
                   <div className="w-12 h-1 bg-blue-600 rounded-full"></div>
                   <h2 className="text-2xl font-black text-[#131C31] uppercase tracking-wider">
-                    Minimally Invasive Neural Implants
+                    Ultrahigh-Density, Multimodal, Minimally Invasive Neural Interface
                   </h2>
                 </div>
                 <p className="text-[#334155] leading-relaxed text-lg mb-6">
-                  Traditional neural probes often cause tissue damage and lack long-term stability. Our lab develops ultra-flexible and injectable sensors using 2D materials like graphene and MoS₂ that conform to brain tissue.
-                  These bio-compatible interfaces allow for high-fidelity monitoring of neural signals without inducing significant immune response.
+                  Conventional intracranial neural interfaces struggle to combine high spatial resolution, multimodal sensing, and low invasiveness.
+                  To overcome this, we developed flexible MoS₂-based active electrocorticography arrays with multiplexed transistor architectures for ultrahigh-density neural mapping, wide bandwidth, and fast on-site acquisition.
+                  We further introduced injectable mesh neural implants that integrate graphene microelectrodes with MoS₂ sensor arrays, enabling conformal multimodal monitoring of neural activity, cerebral blood flow, temperature, and intracranial pressure through small cranial openings. Together, these technologies provide a scalable, tissue-conformal, high-fidelity platform for next-generation diagnostic and therapeutic brain systems.
                 </p>
               </div>
               <div className="w-full md:w-1/2">
                 <div className="rounded-3xl overflow-hidden shadow-xl border border-slate-200 bg-white p-4 group">
                   <img 
-                    src="https://i.postimg.cc/yNFNJPXm/xray.png" 
+                    src="https://i.postimg.cc/66gZcGjR/aa.png" 
                     alt="Neural Implant Research" 
                     className="w-full h-auto object-contain transform group-hover:scale-105 transition-transform duration-700"
                   />
-                  <div className="mt-4 pt-4 border-t border-slate-100 text-center italic text-sm text-slate-500">
-                    High-fidelity spatiotemporal monitoring of neural activities
-                  </div>
                 </div>
               </div>
             </div>
@@ -254,20 +240,19 @@ const ResearchDetail: React.FC<ResearchDetailProps> = ({ type, onBack }) => {
                   </h2>
                 </div>
                 <p className="text-[#334155] leading-relaxed text-lg mb-6">
-                  By integrating advanced backplane circuitry based on transition metal dichalcogenides (TMDs), we create large-area neural sensing arrays that can map cortical activity in real-time.
-                  Our research bridges the gap between biological intelligence and digital systems, offering new hope for diagnosing and alleviating neurological symptoms like epilepsy and Parkinson’s disease.
+                  Rather than relying on passive electrode readout and external bulky electronics, our approach shifts neural interfacing toward intrinsically active, ultrathin electronic architectures based on two-dimensional materials. 
+                  By embedding signal transduction and multiplexing directly at the cortical interface, these platforms fundamentally enhance data throughput while preserving mechanical compliance with soft neural tissues. 
+                  The resulting system-level integration enables dense neural information capture within minimally invasive form factors. 
+                  This paradigm offers a transformative hardware foundation for future integrated brain–computer interface technologies requiring both scalability and high spatiotemporal precision.
                 </p>
               </div>
               <div className="w-full md:w-1/2">
                 <div className="rounded-3xl overflow-hidden shadow-xl border border-slate-200 bg-white p-4 group">
                   <img 
-                    src="https://i.postimg.cc/4xdvQC70/devices-png.jpg" 
+                    src="https://i.postimg.cc/rsBtwvRV/2.png" 
                     alt="BCI Application" 
                     className="w-full h-auto object-contain transform group-hover:scale-105 transition-transform duration-700"
                   />
-                  <div className="mt-4 pt-4 border-t border-slate-100 text-center italic text-sm text-slate-500">
-                    Injectable 2D material-based sensor array for neural implants
-                  </div>
                 </div>
               </div>
             </div>
