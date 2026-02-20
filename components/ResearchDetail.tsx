@@ -52,7 +52,7 @@ const ResearchDetail: React.FC<ResearchDetailProps> = ({ type, onBack }) => {
               <div className="w-full md:w-1/2">
                 <div className="rounded-3xl overflow-hidden shadow-xl border border-slate-200 bg-white p-4 group">
                   <img 
-                    src="https://i.postimg.cc/dtcS60wN/synthesis-png.jpg" 
+                    src="https://i.postimg.cc/Y0myXpgG/lotem-nonmun.png" 
                     alt="Synthesis of various 2D materials" 
                     className="w-full h-auto object-contain transform group-hover:scale-105 transition-transform duration-700"
                   />
