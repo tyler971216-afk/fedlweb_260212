@@ -67,7 +67,7 @@ const ResearchDetail: React.FC<ResearchDetailProps> = ({ type, onBack }) => {
                 <div className="flex items-center space-x-4 mb-6">
                   <div className="w-12 h-1 bg-blue-600 rounded-full"></div>
                   <h2 className="text-2xl font-black text-[#131C31] uppercase tracking-wider">
-                    2D material based ultra-thin heterogeneous devices
+                    2D material based heterogeneous devices
                   </h2>
                 </div>
                 <p className="text-[#334155] leading-relaxed text-lg mb-6">
@@ -78,7 +78,7 @@ const ResearchDetail: React.FC<ResearchDetailProps> = ({ type, onBack }) => {
               <div className="w-full md:w-1/2">
                 <div className="rounded-3xl overflow-hidden shadow-xl border border-slate-200 bg-white p-4 group">
                   <img 
-                    src="https://i.postimg.cc/4xdvQC70/devices-png.jpg" 
+                    src="https://i.postimg.cc/9QSbk3mq/luhing-nonmun.png" 
                     alt="2D material based ultra-thin devices" 
                     className="w-full h-auto object-contain transform group-hover:scale-105 transition-transform duration-700"
                   />
