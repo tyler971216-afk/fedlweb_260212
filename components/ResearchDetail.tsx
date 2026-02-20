@@ -125,18 +125,19 @@ const ResearchDetail: React.FC<ResearchDetailProps> = ({ type, onBack }) => {
                 <div className="flex items-center space-x-4 mb-6">
                   <div className="w-12 h-1 bg-blue-600 rounded-full"></div>
                   <h2 className="text-2xl font-black text-[#131C31] uppercase tracking-wider">
-                    Roll based transfer technique of inorganic thin-film
+                    2D based flevible backplane for active sensor array
                   </h2>
                 </div>
                 <p className="text-[#334155] leading-relaxed text-lg mb-6">
-                  The roll-based transfer enables integration of heterogeneous thin film devices on arbitrary substrate while preserving excellent electrical and optical properties of these devices, comparable to their bulk properties.
-                  All roll-based transfer procedures could enable the high productivity and large area scalability.
+                  We develop flexible active-matrix backplanes based on two-dimensional (2D) materials for next-generation sensor platforms.
+                  By integrating high-performance 2D transistors into large-area arrays, our backplanes enable stable pixel addressing and reliable signal readout even under bending and mechanical deformation.
+                  This approach supports conformal sensor systems—including imaging and multimodal sensing—where lightweight form factors and system-level uniformity are critical.
                 </p>
               </div>
               <div className="w-full md:w-1/2">
                 <div className="rounded-3xl overflow-hidden shadow-xl border border-slate-200 bg-white p-4 group">
                   <img 
-                    src="https://i.postimg.cc/28v3p0pw/rollbase.jpg" 
+                    src="https://i.postimg.cc/8kBv62xd/BJ-nonmun.png" 
                     alt="Roll based transfer technique" 
                     className="w-full h-auto object-contain transform group-hover:scale-105 transition-transform duration-700"
                   />
