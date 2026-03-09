@@ -52,6 +52,7 @@ export const PUBLICATIONS: Publication[] = [
 ];
 
 export const MEMBERS: Member[] = [
+  //Professor
   {
     id: 'prof1',
     name: 'Jong-Hyun Ahn',
@@ -59,15 +60,17 @@ export const MEMBERS: Member[] = [
     image: 'https://i.postimg.cc/kgdn8Sjh/an.png',
     category: 'Professor'
   },
-  {
-    id: 'rp1',
+  //Research Professor
+  /*{
+    /id: 'rp1',
     name: 'Ajit Kumar Katiyar',
     role: 'Research Professor',
     email: 'katiyar.ajit2010@gmail.com',
     researchArea: 'Si Nanomembrane based optoelectronic devices',
     image: '/images/members/ajit.jfif',
-    category: 'Research Professor'
-  },
+    category: 'Research Professor'/
+  },*/
+  //Postdoctoral researcher
   {
     id: 'pd1',
     name: '김범진',
@@ -90,14 +93,14 @@ export const MEMBERS: Member[] = [
   { id: 'phd9', name: '김민규', degree: 'Integrate M.S/Ph.D', email: 'kmg9797@yonsei.ac.kr', researchArea: '2D materials based electronics, DRAM', image: '/images/members/mg_kim.jpg', role: 'Ph.D Student', category: 'Ph.D students' },
   { id: 'phd10', name: '김진의', degree: 'Integrate M.S/Ph.D', email: 'jin1202vs@yonsei.ac.kr', researchArea: 'Software Platform for Wearable Electronics', image: '/images/members/je.jfif', role: 'Ph.D Student', category: 'Ph.D students' },
   { id: 'phd11', name: '이재인', degree: 'Integrate M.S/Ph.D', email: 'jaeinlee1999@gmail.com', researchArea: '2D materials based high performance TFT', image: '/images/members/ji.jfif', role: 'Ph.D Student', category: 'Ph.D students' },
-  { id: 'phd12', name: '김민준', degree: 'Integrate M.S/Ph.D', email: 'kmj12385@yonsei.ac.kr', researchArea: '', image: '/images/members/mj.png', role: 'Ph.D Student', category: 'Ph.D students' },
-  { id: 'phd13', name: '김정근', degree: 'Integrate M.S/Ph.D', email: 'jeongkeun37@yonsei.ac.kr', researchArea: '', image: '/images/members/jk_kim.jfif', role: 'Ph.D Student', category: 'Ph.D students' },
+  { id: 'phd12', name: '김민준', degree: 'Integrate M.S/Ph.D', email: 'kmj12385@yonsei.ac.kr', researchArea: 'Foldable/Rollable display, Mechanical Analysis', image: '/images/members/mj.png', role: 'Ph.D Student', category: 'Ph.D students' },
+  { id: 'phd13', name: '김정근', degree: 'Integrate M.S/Ph.D', email: 'jeongkeun37@yonsei.ac.kr', researchArea: '2D materials based electronics, Memristor', image: '/images/members/jk_kim.jfif', role: 'Ph.D Student', category: 'Ph.D students' },
   
   // M.S Students
   { id: 'ms1', name: '양승민', degree: 'M.S.', email: 'ysmsis44@yonsei.ac.kr', researchArea: '2D materials based electronics, DRAM', image: '/images/members/sm_yang.jpg', role: 'M.S Student', category: 'M.S students' },
   { id: 'ms2', name: '김하영', degree: 'M.S.', email: 'wonan0254@yonsei.ac.kr', researchArea: '2D materials based electronics, P-type', image: '/images/members/hy_kim.jpg', role: 'M.S Student', category: 'M.S students' },
-  { id: 'ms3', name: '최민규', degree: 'M.S.', email: 'rb0401@yonsei.ac.kr', researchArea: '', image: '/images/members/mk_choi.jfif', role: 'M.S Student', category: 'M.S students' },
-  { id: 'ms4', name: '전다연', degree: 'M.S.', email: '@yonsei.ac.kr', researchArea: '', image: '/images/members/dy_jeon.png', role: 'M.S Student', category: 'M.S students' },
+  { id: 'ms3', name: '최민규', degree: 'M.S.', email: 'rb0401@yonsei.ac.kr', researchArea: '2D materials based electronics, Micro LED', image: '/images/members/mk_choi.jfif', role: 'M.S Student', category: 'M.S students' },
+  { id: 'ms4', name: '전다연', degree: 'M.S.', email: 'jeondarang@yonsei.ac.kr', researchArea: '2D materials based Bio-medical devices', image: '/images/members/dy_jeon.jpg', role: 'M.S Student', category: 'M.S students' },
 
   // Staff
   {
