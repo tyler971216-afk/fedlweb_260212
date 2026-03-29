@@ -476,8 +476,8 @@ const PublicationDetail: React.FC<PublicationDetailProps> = ({ period, onBack })
                 'https://i.postimg.cc/jdK1Mg5p/2025-5.jpg'
               ])}
               {renderPubList([
-                { num: 12, text: 'J. Lim and A.T. Huang et al., “Dual-step chemical treatment of wafer-scale MOCVD grown monolayer molybdenum disulfides", ACS Nano, 19, 34698 (2025)', img: '/images/2025/12.png' },
-                { num: 11, text: 'D. Kim and B. Kim, et al., "Bio-resorbable magnetic tunnel junctions​", Adv. Mater., 37, e07912 (2025)', img: '/images/2025/11.png' },
+                { num: 12, text: 'J. Lim and A.T. Huang et al., “Dual-step chemical treatment of wafer-scale MOCVD grown monolayer molybdenum disulfides", ACS Nano, 19, 34698 (2025)', img: '/images/2025/12.jpg' },
+                { num: 11, text: 'D. Kim and B. Kim, et al., "Bio-resorbable magnetic tunnel junctions​", Adv. Mater., 37, e07912 (2025)', img: '/images/2025/11.jpg' },
                 { num: 10, text: 'B. Kim, A. Katiyar, and S. Yang et al., "Monolithic 3D Integration via Direct Synthesis of 2D Transition Metal Dichalcogenides​", Device, 100836 (2025)', img: '/images/2025/10.png' },
                 { num: 9, text: 'H. Shin et al., "A Wireless Cortical Surface Implant for Diagnosing and Alleviating Parkinson’s Disease Symptoms in Freely Moving Animals", Adv. Healthcare Mater. 2405179, (2025)', img: '/images/2025/9.png' },
                 { num: 8, text: 'Y. Zhang et al., "Bioinspired Durable Mechanical-Bioelectrical Dual-Modal Sensors Enabled by Mixed Ion-Electron Conduction and Mechanical Interlocking for Multifunctional Sensing", Adv. Func. Mater., 35, 2501122 (2025)', img: '/images/2025/8.png' },
