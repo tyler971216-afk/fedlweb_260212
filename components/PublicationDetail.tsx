@@ -458,12 +458,13 @@ const PublicationDetail: React.FC<PublicationDetailProps> = ({ period, onBack })
             <section id="year-2026" className="scroll-mt-40">
               <div className="flex items-center space-x-4 mb-12"><h2 className="text-4xl font-black text-[#131C31]">2026</h2><div className="h-1 flex-grow bg-blue-600 rounded-full"></div></div>
               {renderPubList([
-                { num: 6, text: 'D. Xu,  J. Hong et al.,"Flexible Surface Electrodes for Electrocorticography in Neurological Diseases and Brain-Computer Interface Applications​", Small, in press (2026)', img: '/images/2026/6.png' },
-                { num: 5, text: 'M. Xia et al., "Reversible Mechanical and Adhesive Biogels with Ion-electronic Hybrid Conduction and Skin Temperature-Mediated Dynamic Interactions for Multi-Modal and Self-Powered Sensing​", Nano Materials Science​, in press (2026)', img: '/images/2026/5.png' },
-                { num: 4, text: 'S. H. Ji et al., "2D TMD-Based Backplane Circuitry for Large-Area Electronics", Small, in press (2026)', img: '/images/2026/4.png' },
-                { num: 3, text: 'S. H. Ji, J. Kim and J. Hong et al.,"2D Material-based Memristor Arrays for Flexible and Thermally Stable Neuromorphic Applications​", Small, in press (2026)', img: '/images/2026/3.png' },
-                { num: 2, text: 'D. Xu, J. Hong et al., "Two-dimensional semiconductor-based active array for high-fidelity spatiotemporal monitoring of neural activities​". Nat. Mater. in press', img: '/images/2026/2.png' },
-                { num: 1, text: 'J. Moon, S. Bae and J. Ryu, et al., "Crack-Free Transfer of Wafer-Scale Freestanding Single-Crystalline Nanomembranes Enabled by Elastically Graded Polymer​", Adv. Mater., in press.', img: '/images/2026/1.png' }
+                { num: 7, text: 'W. Ren et al.,"The 2D materials roadmap​", 2D Mater., 13, 021501 (2026)', img: '/images/2026/7.jpg' },
+                { num: 6, text: 'N. Mishra et al.,"Spontaneous Intercalation of Graphene on Sapphire", Small Methods, e02396 (2026)', img: '/images/2026/6.jpg' },
+                { num: 5, text: 'D. Xu,  J. Hong et al.,"Flexible Surface Electrodes for Electrocorticography in Neurological Diseases and Brain-Computer Interface Applications​", Small, e14286 (2026)', img: '/images/2026/5.jpg' },
+                { num: 4, text: 'M. Xia et al., "Reversible Mechanical and Adhesive Biogels with Ion-electronic Hybrid Conduction and Skin Temperature-Mediated Dynamic Interactions for Multi-Modal and Self-Powered Sensing​", Nano Materials Science​, (2026)', img: '/images/2026/4.jpg' },
+                { num: 3, text: 'S. H. Ji et al., "2D TMD-Based Backplane Circuitry for Large-Area Electronics", Small, 22(7), e10612 (2026)', img: '/images/2026/3.jpg' },
+                { num: 2, text: 'D. Xu, J. Hong et al., "Two-dimensional semiconductor-based active array for high-fidelity spatiotemporal monitoring of neural activities​". Nat. Mater. in press', img: '/images/2026/2.jpg' },
+                { num: 1, text: 'J. Moon, S. Bae and J. Ryu, et al., "Crack-Free Transfer of Wafer-Scale Freestanding Single-Crystalline Nanomembranes Enabled by Elastically Graded Polymer​", Adv. Mater., in press.', img: '/images/2026/1.jpg' }
               ])}
             </section>
             <section id="year-2025" className="scroll-mt-40">
@@ -476,6 +477,7 @@ const PublicationDetail: React.FC<PublicationDetailProps> = ({ period, onBack })
                 'https://i.postimg.cc/jdK1Mg5p/2025-5.jpg'
               ])}
               {renderPubList([
+                { num: 13, text: 'S. H. Ji, J. Kim and J. Hong et al.,"2D Material-based Memristor Arrays for Flexible and Thermally Stable Neuromorphic Applications​", Small, e07845 (2025)', img: '/images/2025/13.jpg' },
                 { num: 12, text: 'J. Lim and A.T. Huang et al., “Dual-step chemical treatment of wafer-scale MOCVD grown monolayer molybdenum disulfides", ACS Nano, 19, 34698 (2025)', img: '/images/2025/12.jpg' },
                 { num: 11, text: 'D. Kim and B. Kim, et al., "Bio-resorbable magnetic tunnel junctions​", Adv. Mater., 37, e07912 (2025)', img: '/images/2025/11.jpg' },
                 { num: 10, text: 'B. Kim, A. Katiyar, and S. Yang et al., "Monolithic 3D Integration via Direct Synthesis of 2D Transition Metal Dichalcogenides​", Device, 100836 (2025)', img: '/images/2025/10.png' },
