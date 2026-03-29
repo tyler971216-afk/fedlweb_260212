@@ -463,8 +463,8 @@ const PublicationDetail: React.FC<PublicationDetailProps> = ({ period, onBack })
                 { num: 5, text: 'D. Xu,  J. Hong et al.,"Flexible Surface Electrodes for Electrocorticography in Neurological Diseases and Brain-Computer Interface Applications​", Small, e14286 (2026)', img: '/images/2026/5.jpg' },
                 { num: 4, text: 'M. Xia et al., "Reversible Mechanical and Adhesive Biogels with Ion-electronic Hybrid Conduction and Skin Temperature-Mediated Dynamic Interactions for Multi-Modal and Self-Powered Sensing​", Nano Materials Science​, (2026)', img: '/images/2026/4.jpg' },
                 { num: 3, text: 'S. H. Ji et al., "2D TMD-Based Backplane Circuitry for Large-Area Electronics", Small, 22(7), e10612 (2026)', img: '/images/2026/3.jpg' },
-                { num: 2, text: 'D. Xu, J. Hong et al., "Two-dimensional semiconductor-based active array for high-fidelity spatiotemporal monitoring of neural activities​". Nat. Mater. in press', img: '/images/2026/2.jpg' },
-                { num: 1, text: 'J. Moon, S. Bae and J. Ryu, et al., "Crack-Free Transfer of Wafer-Scale Freestanding Single-Crystalline Nanomembranes Enabled by Elastically Graded Polymer​", Adv. Mater., in press.', img: '/images/2026/1.jpg' }
+                { num: 2, text: 'D. Xu, J. Hong et al., "Two-dimensional semiconductor-based active array for high-fidelity spatiotemporal monitoring of neural activities​". Nat. Mater., 1-12 (2026)', img: '/images/2026/2.jpg' },
+                { num: 1, text: 'J. Moon, S. Bae and J. Ryu, et al., "Crack-Free Transfer of Wafer-Scale Freestanding Single-Crystalline Nanomembranes Enabled by Elastically Graded Polymer​", Adv. Mater., 38(1), e13080 (2026)', img: '/images/2026/1.jpg' }
               ])}
             </section>
             <section id="year-2025" className="scroll-mt-40">
