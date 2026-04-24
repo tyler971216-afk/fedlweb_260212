@@ -459,11 +459,11 @@ const PublicationDetail: React.FC<PublicationDetailProps> = ({ period, onBack })
               <div className="flex items-center space-x-4 mb-12"><h2 className="text-4xl font-black text-[#131C31]">2026</h2><div className="h-1 flex-grow bg-blue-600 rounded-full"></div></div>
               {renderPubList([
                 { num: 7, text: 'W. Ren et al.,"The 2D materials roadmap​", 2D Mater., 13, 021501 (2026)', img: '/images/2026/7.jpg' },
-                { num: 6, text: 'N. Mishra et al.,"Spontaneous Intercalation of Graphene on Sapphire", Small Methods, e02396 (2026)', img: '/images/2026/6.jpg' },
-                { num: 5, text: 'D. Xu,  J. Hong et al.,"Flexible Surface Electrodes for Electrocorticography in Neurological Diseases and Brain-Computer Interface Applications​", Small, e14286 (2026)', img: '/images/2026/5.jpg' },
-                { num: 4, text: 'M. Xia et al., "Reversible Mechanical and Adhesive Biogels with Ion-electronic Hybrid Conduction and Skin Temperature-Mediated Dynamic Interactions for Multi-Modal and Self-Powered Sensing​", Nano Materials Science​, (2026)', img: '/images/2026/4.jpg' },
+                { num: 6, text: 'N. Mishra et al.,"Spontaneous Intercalation of Graphene on Sapphire", Small Methods, 10, e02396 (2026)', img: '/images/2026/6.jpg' },
+                { num: 5, text: 'D. Xu,  J. Hong et al.,"Flexible Surface Electrodes for Electrocorticography in Neurological Diseases and Brain-Computer Interface Applications​", Small, 22, e14286 (2026)', img: '/images/2026/5.jpg' },
+                { num: 4, text: 'M. Xia et al., "Reversible Mechanical and Adhesive Biogels with Ion-electronic Hybrid Conduction and Skin Temperature-Mediated Dynamic Interactions for Multi-Modal and Self-Powered Sensing​", Nano Materials Science​ (2026)', img: '/images/2026/4.jpg' },
                 { num: 3, text: 'S. H. Ji et al., "2D TMD-Based Backplane Circuitry for Large-Area Electronics", Small, 22(7), e10612 (2026)', img: '/images/2026/3.jpg' },
-                { num: 2, text: 'D. Xu, J. Hong et al., "Two-dimensional semiconductor-based active array for high-fidelity spatiotemporal monitoring of neural activities​". Nat. Mater., 1-12 (2026)', img: '/images/2026/2.jpg' },
+                { num: 2, text: 'D. Xu, J. Hong et al., "Two-dimensional semiconductor-based active array for high-fidelity spatiotemporal monitoring of neural activities​". Nature Materials, 25, 511 (2026)', img: '/images/2026/2.jpg' },
                 { num: 1, text: 'J. Moon, S. Bae and J. Ryu, et al., "Crack-Free Transfer of Wafer-Scale Freestanding Single-Crystalline Nanomembranes Enabled by Elastically Graded Polymer​", Adv. Mater., 38(1), e13080 (2026)', img: '/images/2026/1.jpg' }
               ])}
             </section>
@@ -480,16 +480,16 @@ const PublicationDetail: React.FC<PublicationDetailProps> = ({ period, onBack })
                 { num: 13, text: 'S. H. Ji, J. Kim and J. Hong et al.,"2D Material-based Memristor Arrays for Flexible and Thermally Stable Neuromorphic Applications​", Small, e07845 (2025)', img: '/images/2025/13.jpg' },
                 { num: 12, text: 'J. Lim and A.T. Huang et al., “Dual-step chemical treatment of wafer-scale MOCVD grown monolayer molybdenum disulfides", ACS Nano, 19, 34698 (2025)', img: '/images/2025/12.jpg' },
                 { num: 11, text: 'D. Kim and B. Kim, et al., "Bio-resorbable magnetic tunnel junctions​", Adv. Mater., 37, e07912 (2025)', img: '/images/2025/11.jpg' },
-                { num: 10, text: 'B. Kim, A. Katiyar, and S. Yang et al., "Monolithic 3D Integration via Direct Synthesis of 2D Transition Metal Dichalcogenides​", Device, 100836 (2025)', img: '/images/2025/10.png' },
-                { num: 9, text: 'H. Shin et al., "A Wireless Cortical Surface Implant for Diagnosing and Alleviating Parkinson’s Disease Symptoms in Freely Moving Animals", Adv. Healthcare Mater. 2405179, (2025)', img: '/images/2025/9.png' },
+                { num: 10, text: 'B. Kim, A. Katiyar, and S. Yang et al., "Monolithic 3D Integration via Direct Synthesis of 2D Transition Metal Dichalcogenides​", Device, 3(9), 100836 (2025)', img: '/images/2025/10.png' },
+                { num: 9, text: 'H. Shin et al., "A Wireless Cortical Surface Implant for Diagnosing and Alleviating Parkinson’s Disease Symptoms in Freely Moving Animals", Adv. Healthcare Materials, 14(17), 2405179, (2025)', img: '/images/2025/9.png' },
                 { num: 8, text: 'Y. Zhang et al., "Bioinspired Durable Mechanical-Bioelectrical Dual-Modal Sensors Enabled by Mixed Ion-Electron Conduction and Mechanical Interlocking for Multifunctional Sensing", Adv. Func. Mater., 35, 2501122 (2025)', img: '/images/2025/8.png' },
                 { num: 7, text: 'K. Park et al.,"2D Material-based Injectable Sensor for Minimally-invasive Cerebral Blood Flow Monitoring", Small, 21, 2501744 (2025)', img: '/images/2025/7.png' },
                 { num: 6, text: 'A. Katiyar et al.,"Strain-Induced Band Gap Narrowing in crumpled TMDs for NIR Light Detection​", Small, 21, 2411378 (2025)', img: '/images/2025/6.png' },
                 { num: 5, text: 'A. Katiyar, J. Choi and J.H Ahn,"Recent Advances in CMOS-Compatible Synthesis and Integration of 2D Materials", Nano Convergence, 12, 11 (2025)', img: '/images/2025/5.jfif' },
                 { num: 4, text: 'S.K. Lee and J. H. Ahn, "Two-dimensional Czochralski growth". Nat. Mater., 24, 161 (2025)', img: '/images/2025/4.png' },
-                { num: 3, text: 'A. Katiyar, and J.H Ahn, "Strain-Engineered 2D Materials: Challenges, Opportunities, and Future Perspectives"​, Small Method, 202401404 (2025)', img: '/images/2025/3.jfif' },
+                { num: 3, text: 'A. Katiyar, and J.H Ahn, "Strain-Engineered 2D Materials: Challenges, Opportunities, and Future Perspectives"​, Small Method, 9(3), 202401404 (2025)', img: '/images/2025/3.jfif' },
                 { num: 2, text: 'B. Kim et al., "A flexible active-matrix X-ray detector with a backplane based on two-dimensional materials", Nature electronics, 8, 147 (2025)', img: '/images/2025/2.png' },
-                { num: 1, text: 'S. Zhao et al., " Mussel-inspired Highly Sensitive, Stretchable, and Self-healable Yarns Enabled by Conductive Pathways and Encapsulation for Wearable Electronics​", Adv. Func. Mater., 2412461 (2025)', img: '/images/2025/1.png' }
+                { num: 1, text: 'S. Zhao et al., " Mussel-inspired Highly Sensitive, Stretchable, and Self-healable Yarns Enabled by Conductive Pathways and Encapsulation for Wearable Electronics​", Adv. Func. Mater., 35(7), 2412461 (2025)', img: '/images/2025/1.png' }
               ])}
             </section>
             <section id="year-2024" className="scroll-mt-40">
