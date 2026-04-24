@@ -497,18 +497,18 @@ const PublicationDetail: React.FC<PublicationDetailProps> = ({ period, onBack })
               {renderCoverImages(['https://i.postimg.cc/TYXzZ2k0/2024-1.jpg'])}
               {renderPubList([
                 { num: 13, text: 'D. Kireev, S. Kutagulla, J. Hong, et al., "Atomically Thin Bioelectronics​" Nat. Rev. Mater., 9, 906 (2024)', img: '/images/2024/13.png' },
-                { num: 12, text: 'R. Roe et al., "Reconfigurable Logic Gates Capable of Device‐Level Parallel Processing Through Multi‐Input Synaptic Device​​" Adv. Func. Mater., 2312988 (2024)', img: '/images/2024/12.png' },
+                { num: 12, text: 'R. Roe et al., "Reconfigurable Logic Gates Capable of Device‐Level Parallel Processing Through Multi‐Input Synaptic Device​​" Adv. Func. Mater., 34(32), 2312988 (2024)', img: '/images/2024/12.png' },
                 { num: 11, text: 'J. Kim, J. Hong, K. Park et al., "Injectable 2D Material-Based Sensor Array for Minimally Invasive Neural Implants​" Advanced Materials, 36, 2400261 (2024)', img: '/images/2024/11.png' },
-                { num: 10, text: 'M. Jang et al., "Controlled epitaxy and patterned growth of one-dimensional crystals via surface treatment of two-dimensional templates", npj 2D Materials and Applications, 36 (2024)', img: '/images/2024/10.png' },
+                { num: 10, text: 'M. Jang et al., "Controlled epitaxy and patterned growth of one-dimensional crystals via surface treatment of two-dimensional templates", npj 2D Materials and Applications, 8, 36 (2024)', img: '/images/2024/10.png' },
                 { num: 9, text: 'S. Han. et al., "High energy density in artificial heterostructures through relaxation time modulation", Science, 384, 312 (2024)', img: '/images/2024/9.png' },
                 { num: 8, text: 'Y. Liu. et al., "Stretchable hybrid platform‐enabled interactive perception of strain sensing and visualization.", SmartMat, 4, e1247 (2024)', img: '/images/2024/8.jfif' },
                 { num: 7, text: 'J. Ji et al., ​​"Heterogeneous integration of high-k complex-oxide gate dielectrics on wide band-gap high-electron-mobility transistor"​ Communications Engineering, 3, 15 (2024)', img: '/images/2024/7.png' },
                 { num: 6, text: 'H.C. Shin et al., "Nonconventional Strain Engineering for Uniform Biaxial Tensile Strain in MoS2 Thin Film Transistors." ACS Nano, 18, 5, 4414​ (2024)', img: '/images/2024/6.png' },
                 { num: 5, text: 'A.K. Katiyar et al., "Strain modulation in crumpled Si nanomembranes: Light detection beyond the Si absorption limit." Science Advances, 10, eadg7200 (2024)', img: '/images/2024/5.jfif' },
-                { num: 4, text: 'S.G. Yang. et al., "Neurodiagnostic and neurotherapeutic potential of graphene nanomaterials." Biosensors and Bioelectronics, 115906 (2024)', img: '/images/2024/4.jfif' },
+                { num: 4, text: 'S.G. Yang. et al., "Neurodiagnostic and neurotherapeutic potential of graphene nanomaterials." Biosensors and Bioelectronics, 247, 115906 (2024)', img: '/images/2024/4.jfif' },
                 { num: 3, text: 'A.K. Katiyar. et al., "2D Materials in Flexible Electronics: Recent Advances and Future Prospectives." Chemical Reviews, 124(2), 318 (2024)', img: '/images/2024/3.jfif' },
-                { num: 2, text: 'S.H. Ji. et al., "Perovskite Light‐Emitting Diode Display Based on MoS2 Backplane Thin‐Film Transistors." Advanced Materials, 2309531 (2024)', img: '/images/2024/2.png' },
-                { num: 1, text: 'M. Xia. et al., "Kirigami‐Structured, Low‐Impedance, and Skin‐Conformal Electronics for Long‐Term Biopotential Monitoring and Human–Machine Interfaces.", Advanced Science, 2304871 (2024)', img: '/images/2024/1.png' }
+                { num: 2, text: 'S.H. Ji. et al., "Perovskite Light‐Emitting Diode Display Based on MoS2 Backplane Thin‐Film Transistors." Advanced Materials, 36(2), 2309531 (2024)', img: '/images/2024/2.png' },
+                { num: 1, text: 'M. Xia. et al., "Kirigami‐Structured, Low‐Impedance, and Skin‐Conformal Electronics for Long‐Term Biopotential Monitoring and Human–Machine Interfaces.", Advanced Science, 11(1), 2304871 (2024)', img: '/images/2024/1.png' }
               ])}
             </section>
             <section id="year-2023" className="scroll-mt-40">
@@ -516,7 +516,7 @@ const PublicationDetail: React.FC<PublicationDetailProps> = ({ period, onBack })
               {renderCoverImages(['https://i.postimg.cc/nrq6CNLT/2023-1.webp'])}
               {renderPubList([
                 { num: 10, text: 'J.H. Kang. et al., "Monolithic 3D integration of 2D materials-based electronics towards ultimate edge computing solutions." Nature Materials, 22, 1 (2023)', img: '/images/2023/10.png' },
-                { num: 9, text: 'J.Y. Lee, et al., "Ultrathin Crystalline Silicon Nano and Micro Membranes with High Areal Density for Low‐Cost Flexible Electronics.", Small, 2302597 (2023)', img: '/images/2023/9.png' },
+                { num: 9, text: 'J.Y. Lee, et al., "Ultrathin Crystalline Silicon Nano and Micro Membranes with High Areal Density for Low‐Cost Flexible Electronics.", Small, 19(39), 2302597 (2023)', img: '/images/2023/9.png' },
                 { num: 8, text: 'L. Mawlong et al., "Reduced Defect Density in MOCVD-grown MoS2 by Manipulating the Precursor Phase", ACS Applied Materials & Interfaces, 15, 47359 (2023)', img: '/images/2023/8.jfif' },
                 { num: 7, text: 'A.T. Hoang et al., "Low temperature growth of MoS2 on polymer and thin glass substrates for flexible electronics", Nature Nanotechnology, 18, 1439 (2023)', img: '/images/2023/7.jfif' },
                 { num: 6, text: 'B. Shao et al., "Highly Trustworthy In-sensor Cryptography for Image Encryption and Authentication​​", ACS Nano, 17, 10291 (2023)', img: '/images/2023/6.jfif' },
