@@ -360,7 +360,7 @@ export const BOARD_ITEMS: BoardItem[] = [
   },
 
   // News items provided
-  { id: 'nw1', date: '23/03/2026', title: '연세대 안종현 교수팀, 뇌파 정밀 감지 센서 개발', source: '중앙일', type: 'News', link: 'https://www.joongang.co.kr/article/25414054' },
+  { id: 'nw1', date: '23/03/2026', title: '연세대 안종현 교수팀, 뇌파 정밀 감지 센서 개발', source: '중앙일보', type: 'News', link: 'https://www.joongang.co.kr/article/25414054' },
   { id: 'nw2', date: '23/01/2025', title: '안종현 연세대 교수팀, 고성능 디지털 X-ray 검출기 개발', source: '아시아투데이', type: 'News', link: 'https://www.asiatoday.co.kr/kn/view.php?key=20250123010012582' },
   { id: 'nw3', date: '13/08/2024', title: '연세대 안종현 교수팀 ‘뇌수술 위험 감소’ 주입형 뇌신경 임플란트 센서 개발', source: '중앙일보', type: 'News', link: 'https://www.joongang.co.kr/article/25270410' },
   { id: 'nw4', date: '24/08/2023', title: 'Two-dimensional materials cool down', source: 'Nature Electronics', type: 'News', link: 'https://www.nature.com/articles/s41928-023-01027-6' },
