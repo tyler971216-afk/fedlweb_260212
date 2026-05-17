@@ -458,6 +458,7 @@ const PublicationDetail: React.FC<PublicationDetailProps> = ({ period, onBack })
             <section id="year-2026" className="scroll-mt-40">
               <div className="flex items-center space-x-4 mb-12"><h2 className="text-4xl font-black text-[#131C31]">2026</h2><div className="h-1 flex-grow bg-blue-600 rounded-full"></div></div>
               {renderPubList([
+                { num: 9, text: 'W. Guo, C. Wu, J. Choi, et al., "Layered Graphene/Hydrogel-based Multi-Modal Sensors Enabled by Ion-Electron Synergistic Conduction", Small, in press', img: '/images/2026/9.jpg' },
                 { num: 8, text: 'J. Kim, H. Lee, J. Hong et al., "Phantom Brain model Replicating Multiple ECoG Signals for Preclinical Device Testing", IEEE Trans. Biomed. Eng. in press', img: '/images/2026/8.jpg' },
                 { num: 7, text: 'W. Ren et al., "The 2D materials roadmap​", 2D Mater., 13, 021501 (2026)', img: '/images/2026/7.jpg' },
                 { num: 6, text: 'N. Mishra et al., "Spontaneous Intercalation of Graphene on Sapphire", Small Methods, 10, e02396 (2026)', img: '/images/2026/6.jpg' },
