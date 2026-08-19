@@ -221,6 +221,21 @@ export const BOARD_ITEMS: BoardItem[] = [
 //gallery 사진
   { 
     id: 'g1', 
+    title: 'Workshop in Jeju', 
+    date: '2026-07-13', 
+    type: 'Gallery', 
+    image: 'https://i.postimg.cc/TPs7k0jG/1.jpg',
+    images: [
+      'https://i.postimg.cc/TPs7k0jG/1.jpg',
+      'https://i.postimg.cc/MGLPs50v/2.jpg',
+      'https://i.postimg.cc/SKPTZdLn/3.jpg',
+      'https://i.postimg.cc/YSPnXRNK/4.jpg',
+      'https://i.postimg.cc/hGYyCs8S/5.jpg',
+      'https://i.postimg.cc/1zdCWB0y/6.jpg'
+    ]
+  },
+  { 
+    id: 'g2', 
     title: '연구실 송별회 (Farewell Party)', 
     date: '2026-04-24', 
     type: 'Gallery', 
@@ -233,7 +248,7 @@ export const BOARD_ITEMS: BoardItem[] = [
     ]
   },
   { 
-    id: 'g2', 
+    id: 'g3', 
     title: 'The 12th Korean Symposium on Graphene and 2D Materials', 
     date: '2025-07-09', 
     type: 'Gallery', 
@@ -249,7 +264,7 @@ export const BOARD_ITEMS: BoardItem[] = [
     ]
   },
   { 
-    id: 'g3', 
+    id: 'g4', 
     title: '스승의 날(National Teacher Day)', 
     date: '2025-05-17', 
     type: 'Gallery', 
@@ -262,7 +277,7 @@ export const BOARD_ITEMS: BoardItem[] = [
     ]
   },
   { 
-    id: 'g4', 
+    id: 'g5', 
     title: 'Graduation congratulations', 
     date: '2024-01-26', 
     type: 'Gallery', 
@@ -273,7 +288,7 @@ export const BOARD_ITEMS: BoardItem[] = [
     ]
   },
   { 
-    id: 'g5', 
+    id: 'g6', 
     title: 'Workshop in Jeju', 
     date: '2023-08-29', 
     type: 'Gallery', 
@@ -288,7 +303,7 @@ export const BOARD_ITEMS: BoardItem[] = [
     ]
   },
   { 
-    id: 'g6', 
+    id: 'g7', 
     title: 'Nanomaterials for Optoelectronics and Electronics Workshop', 
     date: '2023-08-09', 
     type: 'Gallery', 
@@ -299,14 +314,14 @@ export const BOARD_ITEMS: BoardItem[] = [
     ]
   },
   { 
-    id: 'g7', 
+    id: 'g8', 
     title: 'The 10th Korean Symposium on Graphene and 2D Materials', 
     date: '2023-07-30', 
     type: 'Gallery', 
     image: 'https://i.postimg.cc/XJJCStxH/4.jpg'
   },
   { 
-    id: 'g8', 
+    id: 'g9', 
     title: '스승의 날(National Teacher Day)', 
     date: '2023-05-20', 
     type: 'Gallery', 
@@ -317,42 +332,42 @@ export const BOARD_ITEMS: BoardItem[] = [
     ]
   },
   { 
-    id: 'g9', 
+    id: 'g10', 
     title: '스승의 날(National Teacher Day)', 
     date: '2020-05-16', 
     type: 'Gallery', 
     image: 'https://i.postimg.cc/6QTvFDMn/2020-05-16-seuseung-ui-nal(National-Teacher-Day).jpg'
   },
   { 
-    id: 'g10', 
+    id: 'g11', 
     title: '20년도 졸업생 송별회', 
     date: '2020-02-20', 
     type: 'Gallery', 
     image: 'https://i.postimg.cc/q7g3W91Q/2020-02-20-20nyeondo-jol-eobsaeng-songbyeolhoe.jpg'
   },
   { 
-    id: 'g11', 
+    id: 'g12', 
     title: 'Workshop in Jeju', 
     date: '2018-11-13', 
     type: 'Gallery', 
     image: 'https://i.postimg.cc/jjC7BGMH/2018-11-13-Workshop-in-Jeju.jpg'
   },
   { 
-    id: 'g12', 
+    id: 'g13', 
     title: 'FREE 학회', 
     date: '2018-11-02', 
     type: 'Gallery', 
     image: 'https://i.postimg.cc/zf3g49xj/2018-11-02-FREE-haghoe.jpg'
   },
   { 
-    id: 'g13', 
+    id: 'g14', 
     title: '대한민국학술원상 수상 축하연', 
     date: '2018-09-17', 
     type: 'Gallery', 
     image: 'https://i.postimg.cc/1z4qbLvr/2018-09-17-daehanmingughagsul-wonsang-susang-chughayeon.jpg'
   },
   { 
-    id: 'g14', 
+    id: 'g15', 
     title: 'Workshop in Jeju', 
     date: '2017-11-06', 
     type: 'Gallery', 
