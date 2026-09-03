@@ -62,13 +62,13 @@ export const MEMBERS: Member[] = [
   },
   //Research Professor
   /*{
-    /id: 'rp1',
+    id: 'rp1',
     name: 'Ajit Kumar Katiyar',
     role: 'Research Professor',
     email: 'katiyar.ajit2010@gmail.com',
     researchArea: 'Si Nanomembrane based optoelectronic devices',
     image: '/images/members/ajit.jfif',
-    category: 'Research Professor'/
+    category: 'Research Professor'
   },*/
   //Postdoctoral researcher
   {
