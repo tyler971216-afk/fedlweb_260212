@@ -165,7 +165,8 @@ export const MEMBERS: Member[] = [
   { id: 'al48', name: 'Hoàng Tuấn', degree: 'Ph.D', currentInstitution: 'Stanford University', category: 'Alumni', image: '', role: 'Alumni' },
   { id: 'al49', name: '김제중 (Kim, Jejung)', degree: 'Ph.D', currentInstitution: 'Samsung Electronics', category: 'Alumni', image: '', role: 'Alumni' },
   { id: 'al50', name: '신희창', degree: 'Ph.D', currentInstitution: 'Samsung Electronics', category: 'Alumni', image: '', role: 'Alumni' },
-  { id: 'al51', name: '이혜령', degree: 'M.S.', currentInstitution: 'Samsung Electronics', category: 'Alumni', image: '', role: 'Alumni' }
+  { id: 'al51', name: '이혜령', degree: 'M.S.', currentInstitution: 'Samsung Electronics', category: 'Alumni', image: '', role: 'Alumni' },
+  { id: 'al52', name: '양승민', degree: 'M.S.', currentInstitution: 'UC Berkeley', category: 'Alumni', image: '', role: 'Alumni' }
 ];
 
 export const BOARD_ITEMS: BoardItem[] = [
