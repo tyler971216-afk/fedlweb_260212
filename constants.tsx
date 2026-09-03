@@ -86,7 +86,7 @@ export const MEMBERS: Member[] = [
   {
     id: 'pd2',
     name: '지승현',
-    nameEn: 'Seunghyeon',
+    nameEn: 'Seunghyeon Ji',
     role: 'Postdoctoral researcher',
     email: 'qwas8802@yonsei.ac.kr',
     researchArea: '2D materials based electronics, M3D',
