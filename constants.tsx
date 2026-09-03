@@ -101,7 +101,7 @@ export const MEMBERS: Member[] = [
   { id: 'ms1', name: '김하영', degree: 'M.S.', email: 'wonan0254@yonsei.ac.kr', researchArea: '2D materials based electronics, P-type', image: '/images/members/hy_kim.jpg', role: 'M.S Student', category: 'M.S students' },
   { id: 'ms2', name: '최민규', degree: 'M.S.', email: 'rb0401@yonsei.ac.kr', researchArea: '2D materials based electronics, Micro LED', image: '/images/members/mk_choi.jfif', role: 'M.S Student', category: 'M.S students' },
   { id: 'ms3', name: '전다연', degree: 'M.S.', email: 'jeondarang@yonsei.ac.kr', researchArea: '2D materials based Bio-medical devices', image: '/images/members/dy_jeon.jpg', role: 'M.S Student', category: 'M.S students' },
-  { id: 'ms4', name: '박성민', degree: 'M.S.', email: 'smpark00@yonsei.ac.kr', researchArea: '2D material synthesis', image: '/images/members/sm_park.jpg', role: 'M.S Student', category: 'M.S students' }
+  { id: 'ms4', name: '박성민', degree: 'M.S.', email: 'smpark00@yonsei.ac.kr', researchArea: '2D material synthesis', image: '/images/members/sm_park.jpg', role: 'M.S Student', category: 'M.S students' },
 
   // Staff
   {
