@@ -51,7 +51,29 @@ const Footer: React.FC = () => {
                 </div>
                 <div>
                   <h4 className="text-[#131C31] font-black text-xs uppercase tracking-widest mb-1.5">Email Address</h4>
-                  <a href="mailto:ahnj@yonsei.ac.kr" className="text-blue-600 hover:text-blue-800 text-sm font-bold transition-colors">ahnj@yonsei.ac.kr</a>
+                  <div className="flex items-center gap-1">
+                    <span className="text-slate-600 text-sm font-medium">
+                      Professor:
+                    </span>
+                    <a
+                      href="mailto:ahnj@yonsei.ac.kr"
+                      className="text-blue-600 hover:text-blue-800 text-sm font-bold transition-colors"
+                    >
+                      ahnj@yonsei.ac.kr
+                    </a>
+                  </div>
+                  
+                  <div className="flex items-center gap-1">
+                    <span className="text-slate-600 text-sm font-medium">
+                      Professor:
+                    </span>
+                    <a
+                      href="mailto:jhryu960@naver.com"
+                      className="text-blue-600 hover:text-blue-800 text-sm font-bold transition-colors"
+                    >
+                      jhryu960@naver.com
+                    </a>
+                  </div>
                 </div>
               </div>
             </div>
