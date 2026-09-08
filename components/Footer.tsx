@@ -65,7 +65,7 @@ const Footer: React.FC = () => {
                   
                   <div className="flex items-center gap-1">
                     <span className="text-slate-600 text-sm font-medium">
-                      Professor:
+                      Lab Manager:
                     </span>
                     <a
                       href="mailto:jhryu960@naver.com"
