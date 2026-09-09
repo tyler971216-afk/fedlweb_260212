@@ -40,8 +40,8 @@ const Footer: React.FC = () => {
                   <MapPin size={24} />
                 </div>
                 <div>
-                  <h4 className="text-[#131C31] font-black text-xs uppercase tracking-widest mb-1.5">Our Location</h4>
-                  <p className="text-slate-600 text-sm leading-relaxed font-medium">B715-2, Engineering Hall 2, Yonsei University, Seoul, Korea</p>
+                  <h4 className="text-[#131C31] font-black text-xs uppercase tracking-widest mb-1.5">Our Locations</h4>
+                  <p className="text-slate-600 text-sm leading-relaxed font-medium"> Research Office:</span>{' '} B715-2, Engineering Hall 2, Yonsei University, Seoul, Korea</p>
                 </div>
               </div>
 
