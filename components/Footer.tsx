@@ -41,7 +41,8 @@ const Footer: React.FC = () => {
                 </div>
                 <div>
                   <h4 className="text-[#131C31] font-black text-xs uppercase tracking-widest mb-1.5">Our Locations</h4>
-                  <p className="text-slate-600 text-sm leading-relaxed font-medium"> Research Office:</span>{' '} B715-2, Engineering Hall 2, Yonsei University, Seoul, Korea</p>
+                  <p className="text-slate-600 text-sm leading-relaxed font-medium"> Professor's Office: C310, Engineering Hall 3, Yonsei University </p>
+                  <p className="text-slate-600 text-sm leading-relaxed font-medium"> Research Office: B715-2, Engineering Hall 2, Yonsei University </p>
                 </div>
               </div>
 
