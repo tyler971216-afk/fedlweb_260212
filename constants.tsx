@@ -57,7 +57,7 @@ export const MEMBERS: Member[] = [
     id: 'prof1',
     name: 'Jong-Hyun Ahn',
     role: 'Professor',
-    image: 'https://i.postimg.cc/kgdn8Sjh/an.png',
+    image: '/images/members/jh_ahn.png',
     category: 'Professor'
   },
   
