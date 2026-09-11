@@ -327,14 +327,14 @@ export const BOARD_ITEMS: BoardItem[] = [
     title: 'Workshop in Jeju', 
     date: '2023-08-29', 
     type: 'Gallery', 
-    image: '/images/gallery/[2023.08.29] Workshop in Jeju/2.jpg',
+    image: '/images/gallery/[2023.08.29] Workshop in Jeju/2.jfif',
     images: [
-      '/images/gallery/[2023.08.29] Workshop in Jeju/2.jpg',
-      '/images/gallery/[2023.08.29] Workshop in Jeju/2-1.jpg',
-      '/images/gallery/[2023.08.29] Workshop in Jeju/2-2.jpg',
-      '/images/gallery/[2023.08.29] Workshop in Jeju/2-3.jpg',
+      '/images/gallery/[2023.08.29] Workshop in Jeju/2.jfif',
+      '/images/gallery/[2023.08.29] Workshop in Jeju/2-1.jfif',
+      '/images/gallery/[2023.08.29] Workshop in Jeju/2-2.jfif',
+      '/images/gallery/[2023.08.29] Workshop in Jeju/2-3.jfif',
       '/images/gallery/[2023.08.29] Workshop in Jeju/2-4.png',
-      '/images/gallery/[2023.08.29] Workshop in Jeju/2-5.jpg'
+      '/images/gallery/[2023.08.29] Workshop in Jeju/2-5.jfif'
     ]
   },
   { 
