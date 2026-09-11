@@ -247,154 +247,166 @@ export const BOARD_ITEMS: BoardItem[] = [
     title: 'Workshop in Jeju', 
     date: '2026-07-13', 
     type: 'Gallery', 
-    image: 'https://i.postimg.cc/TPs7k0jG/1.jpg',
+    image: '/images/gallery/[2026.07.13]/1.jpg',
     images: [
-      'https://i.postimg.cc/TPs7k0jG/1.jpg',
-      'https://i.postimg.cc/MGLPs50v/2.jpg',
-      'https://i.postimg.cc/SKPTZdLn/3.jpg',
-      'https://i.postimg.cc/YSPnXRNK/4.jpg',
-      'https://i.postimg.cc/hGYyCs8S/5.jpg',
-      'https://i.postimg.cc/1zdCWB0y/6.jpg'
+      '/images/gallery/[2026.07.13]/1.jpg',
+      '/images/gallery/[2026.07.13]/2.jpg',
+      '/images/gallery/[2026.07.13]/3.jpg',
+      '/images/gallery/[2026.07.13]/4.jpg',
+      '/images/gallery/[2026.07.13]/5.jpg',
+      '/images/gallery/[2026.07.13]/6.jpg'
     ]
   },
   { 
     id: 'g2', 
-    title: '연구실 송별회 (Farewell Party)', 
-    date: '2026-04-24', 
+    title: '스승의 날(National Teacher Day)', 
+    date: '2026-05-16', 
     type: 'Gallery', 
-    image: 'https://i.postimg.cc/3w6z8jzk/1.jpg',
+    image: '/images/gallery/[2026.05.16]/1.jpg',
     images: [
-      'https://i.postimg.cc/3w6z8jzk/1.jpg',
-      'https://i.postimg.cc/d0XgsRg9/2.jpg',
-      'https://i.postimg.cc/9fSsmPsY/3.jpg'
-
+      '/images/gallery/[2026.05.16]/1.jpg',
+      '/images/gallery/[2026.05.16]/2.jpg',
+      '/images/gallery/[2026.05.16]/3.jpg'
     ]
   },
   { 
     id: 'g3', 
-    title: 'The 12th Korean Symposium on Graphene and 2D Materials', 
-    date: '2025-07-09', 
+    title: '연구실 송별회 (Farewell Party)', 
+    date: '2026-04-24', 
     type: 'Gallery', 
-    image: 'https://i.postimg.cc/fRNs2g3d/Kakao-Talk-20260203-175512545-25.jpg',
+    image: '/images/gallery/[2026.04.24]/1.jpg',
     images: [
-      'https://i.postimg.cc/fRNs2g3d/Kakao-Talk-20260203-175512545-25.jpg',
-      'https://i.postimg.cc/Pq7FcP3x/Kakao-Talk-20260203-175512545-29.jpg',
-      'https://i.postimg.cc/nL91XT2X/Kakao-Talk-20260203-175512545-02.jpg',
-      'https://i.postimg.cc/Tw951Wz5/Kakao-Talk-20260203-175512545-03.jpg',
-      'https://i.postimg.cc/SxMX8PBv/Kakao-Talk-20260203-175512545-06.jpg',
-      'https://i.postimg.cc/XYkrQ5vY/Kakao-Talk-20260203-175512545-10.jpg',
-      'https://i.postimg.cc/vZt43nmL/Kakao-Talk-20260203-181934162-09.jpg'
+      '/images/gallery/[2026.04.24]/1.jpg',
+      '/images/gallery/[2026.04.24]/2.jpg',
+      '/images/gallery/[2026.04.24]/3.jpg'
+
     ]
   },
   { 
     id: 'g4', 
-    title: '스승의 날(National Teacher Day)', 
-    date: '2025-05-17', 
+    title: 'The 12th Korean Symposium on Graphene and 2D Materials', 
+    date: '2025-07-09', 
     type: 'Gallery', 
-    image: 'https://i.postimg.cc/YShsVFpv/main.jpg',
+    image: '/images/gallery/[2025.07.19]/1.jpg',
     images: [
-      'https://i.postimg.cc/YShsVFpv/main.jpg',
-      'https://i.postimg.cc/jjLF9fsR/1.jpg',
-      'https://i.postimg.cc/8Cj03v1j/2.jpg',
-      'https://i.postimg.cc/8Cj03v15/dd.jpg'
+      '/images/gallery/[2025.07.19]/1.jpg',
+      '/images/gallery/[2025.07.19]/2.jpg',
+      '/images/gallery/[2025.07.19]/3.jpg',
+      '/images/gallery/[2025.07.19]/4.jpg',
+      '/images/gallery/[2025.07.19]/5.jpg',
+      '/images/gallery/[2025.07.19]/6.jpg',
+      '/images/gallery/[2025.07.19]/7.jpg'
     ]
   },
   { 
     id: 'g5', 
-    title: 'Graduation congratulations', 
-    date: '2024-01-26', 
+    title: '스승의 날(National Teacher Day)', 
+    date: '2025-05-17', 
     type: 'Gallery', 
-    image: 'https://i.postimg.cc/ZYvCZYb6/1.jpg',
+    image: '/images/gallery/[2025.05.17]/main.jpg',
     images: [
-      'https://i.postimg.cc/ZYvCZYb6/1.jpg',
-      'https://i.postimg.cc/c1trZ1xT/1-1.jpg'
+      '/images/gallery/[2025.05.17]/main.jpg',
+      '/images/gallery/[2025.05.17]/1.jpg',
+      '/images/gallery/[2025.05.17]/2.jpg',
+      '/images/gallery/[2025.05.17]/dd.jpg'
     ]
   },
   { 
     id: 'g6', 
-    title: 'Workshop in Jeju', 
-    date: '2023-08-29', 
+    title: 'Graduation congratulations', 
+    date: '2024-01-26', 
     type: 'Gallery', 
-    image: 'https://i.postimg.cc/DyD5CPvj/2.jpg',
+    image: '/images/gallery/[2024.01.26]/1.jpg',
     images: [
-      'https://i.postimg.cc/DyD5CPvj/2.jpg',
-      'https://i.postimg.cc/WbKS9wNH/2-1.jpg',
-      'https://i.postimg.cc/RV8GPLS2/2-2.jpg',
-      'https://i.postimg.cc/023Zt0kF/2-3.jpg',
-      'https://i.postimg.cc/jd9v84xX/2-4.png',
-      'https://i.postimg.cc/9FS1xYmk/2-5.jpg'
+      '/images/gallery/[2024.01.26]/1.jpg',
+      '/images/gallery/[2024.01.26]/1-1.jpg'
     ]
   },
   { 
     id: 'g7', 
-    title: 'Nanomaterials for Optoelectronics and Electronics Workshop', 
-    date: '2023-08-09', 
+    title: 'Workshop in Jeju', 
+    date: '2023-08-29', 
     type: 'Gallery', 
-    image: 'https://i.postimg.cc/85Phk7kD/3.jpg',
+    image: '/images/gallery/[2023.08.29]/2.jpg',
     images: [
-      'https://i.postimg.cc/85Phk7kD/3.jpg',
-      'https://i.postimg.cc/xCTKjXjf/3-1.jpg'
+      '/images/gallery/[2023.08.29]/2.jpg',
+      '/images/gallery/[2023.08.29]/2-1.jpg',
+      '/images/gallery/[2023.08.29]/2-2.jpg',
+      '/images/gallery/[2023.08.29]/2-3.jpg',
+      '/images/gallery/[2023.08.29]/2-4.png',
+      '/images/gallery/[2023.08.29]/2-5.jpg'
     ]
   },
   { 
     id: 'g8', 
-    title: 'The 10th Korean Symposium on Graphene and 2D Materials', 
-    date: '2023-07-30', 
+    title: 'Nanomaterials for Optoelectronics and Electronics Workshop', 
+    date: '2023-08-09', 
     type: 'Gallery', 
-    image: 'https://i.postimg.cc/XJJCStxH/4.jpg'
+    image: '/images/gallery/[2023.08.09]/1.jpg',
+    images: [
+      '/images/gallery/[2023.08.09]/1.jpg',
+      '/images/gallery/[2023.08.09]/2.jpg'
+    ]
   },
   { 
     id: 'g9', 
-    title: '스승의 날(National Teacher Day)', 
-    date: '2023-05-20', 
+    title: 'The 10th Korean Symposium on Graphene and 2D Materials', 
+    date: '2023-07-30', 
     type: 'Gallery', 
-    image: 'https://i.postimg.cc/DZJ14tGM/5.jpg',
-    images: [
-      'https://i.postimg.cc/DZJ14tGM/5.jpg',
-      'https://i.postimg.cc/cHgftV3P/5-1.jpg'
-    ]
+    image: '/images/gallery/[2023.07.30]/1.jpg'
   },
   { 
     id: 'g10', 
     title: '스승의 날(National Teacher Day)', 
-    date: '2020-05-16', 
+    date: '2023-05-20', 
     type: 'Gallery', 
-    image: 'https://i.postimg.cc/6QTvFDMn/2020-05-16-seuseung-ui-nal(National-Teacher-Day).jpg'
+    image: '/images/gallery/[2023.05.20]/1.jpg',
+    images: [
+      '/images/gallery/[2023.05.20]/1.jpg',
+      '/images/gallery/[2023.05.20]/2.jpg'
+    ]
   },
   { 
     id: 'g11', 
-    title: '20년도 졸업생 송별회', 
-    date: '2020-02-20', 
+    title: '스승의 날(National Teacher Day)', 
+    date: '2020-05-16', 
     type: 'Gallery', 
-    image: 'https://i.postimg.cc/q7g3W91Q/2020-02-20-20nyeondo-jol-eobsaeng-songbyeolhoe.jpg'
+    image: '/images/gallery/[2020.05.16] Teacher Day.jpg'
   },
   { 
     id: 'g12', 
-    title: 'Workshop in Jeju', 
-    date: '2018-11-13', 
+    title: '20년도 졸업생 송별회', 
+    date: '2020-02-20', 
     type: 'Gallery', 
-    image: 'https://i.postimg.cc/jjC7BGMH/2018-11-13-Workshop-in-Jeju.jpg'
+    image: '/images/gallery/[2020.02.20] farewell.jpg'
   },
   { 
     id: 'g13', 
-    title: 'FREE 학회', 
-    date: '2018-11-02', 
+    title: 'Workshop in Jeju', 
+    date: '2018-11-13', 
     type: 'Gallery', 
-    image: 'https://i.postimg.cc/zf3g49xj/2018-11-02-FREE-haghoe.jpg'
+    image: '/images/gallery/[2017.11.06] Workshop in Jeju.jpg'
   },
   { 
     id: 'g14', 
-    title: '대한민국학술원상 수상 축하연', 
-    date: '2018-09-17', 
+    title: 'FREE 학회', 
+    date: '2018-11-02', 
     type: 'Gallery', 
-    image: 'https://i.postimg.cc/1z4qbLvr/2018-09-17-daehanmingughagsul-wonsang-susang-chughayeon.jpg'
+    image: '/images/gallery/[2018.11.02] FREE.jpg'
   },
   { 
     id: 'g15', 
+    title: '대한민국학술원상 수상 축하연', 
+    date: '2018-09-17', 
+    type: 'Gallery', 
+    image: '/images/gallery/[2018.09.17].jpg'
+  },
+  { 
+    id: 'g16', 
     title: 'Workshop in Jeju', 
     date: '2017-11-06', 
     type: 'Gallery', 
-    image: 'https://i.postimg.cc/rpzr7vfQ/2017-11-06-Workshop-in-Jeju.jpg'
+    image: '/images/gallery/[2017.11.06] Workshop in Jeju.jpg'
   },
 
   // News items provided
