@@ -287,15 +287,15 @@ export const BOARD_ITEMS: BoardItem[] = [
     title: 'The 12th Korean Symposium on Graphene and 2D Materials', 
     date: '2025-07-09', 
     type: 'Gallery', 
-    image: '/images/gallery/[2025.07.19]/1.jpg',
+    image: '/images/gallery/[2025.07.09]/1.jpg',
     images: [
-      '/images/gallery/[2025.07.19]/1.jpg',
-      '/images/gallery/[2025.07.19]/2.jpg',
-      '/images/gallery/[2025.07.19]/3.jpg',
-      '/images/gallery/[2025.07.19]/4.jpg',
-      '/images/gallery/[2025.07.19]/5.jpg',
-      '/images/gallery/[2025.07.19]/6.jpg',
-      '/images/gallery/[2025.07.19]/7.jpg'
+      '/images/gallery/[2025.07.09]/1.jpg',
+      '/images/gallery/[2025.07.09]/2.jpg',
+      '/images/gallery/[2025.07.09]/3.jpg',
+      '/images/gallery/[2025.07.09]/4.jpg',
+      '/images/gallery/[2025.07.09]/5.jpg',
+      '/images/gallery/[2025.07.09]/6.jpg',
+      '/images/gallery/[2025.07.09]/7.jpg'
     ]
   },
   { 
