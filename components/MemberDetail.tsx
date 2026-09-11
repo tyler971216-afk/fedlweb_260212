@@ -53,7 +53,7 @@ const MemberDetail: React.FC<MemberDetailProps> = ({ category, onBack, onCategor
         <div className="w-full lg:w-[280px] flex-shrink-0">
           <div className="rounded-[24px] overflow-hidden shadow-xl border border-slate-200 bg-white group">
             <img 
-              src="https://i.postimg.cc/kgdn8Sjh/an.png" 
+              src="/images/members/jh_ahn.png" 
               alt="Prof. Jong-Hyun Ahn" 
               className="w-full h-auto object-cover transform transition-transform duration-1000 group-hover:scale-105"
             />
