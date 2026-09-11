@@ -247,14 +247,14 @@ export const BOARD_ITEMS: BoardItem[] = [
     title: 'Workshop in Jeju', 
     date: '2026-07-13', 
     type: 'Gallery', 
-    image: '/images/gallery/[2026.07.13]/1.jpg',
+    image: '/images/gallery/[2026.07.13] workshop/1.jpg',
     images: [
-      '/images/gallery/[2026.07.13]/1.jpg',
-      '/images/gallery/[2026.07.13]/2.jpg',
-      '/images/gallery/[2026.07.13]/3.jpg',
-      '/images/gallery/[2026.07.13]/4.jpg',
-      '/images/gallery/[2026.07.13]/5.jpg',
-      '/images/gallery/[2026.07.13]/6.jpg'
+      '/images/gallery/[2026.07.13] workshop/1.jpg',
+      '/images/gallery/[2026.07.13] workshop/2.jpg',
+      '/images/gallery/[2026.07.13] workshop/3.jpg',
+      '/images/gallery/[2026.07.13] workshop/4.jpg',
+      '/images/gallery/[2026.07.13] workshop/5.jpg',
+      '/images/gallery/[2026.07.13] workshop/6.jpg'
     ]
   },
   { 
@@ -262,11 +262,11 @@ export const BOARD_ITEMS: BoardItem[] = [
     title: '스승의 날(National Teacher Day)', 
     date: '2026-05-16', 
     type: 'Gallery', 
-    image: '/images/gallery/[2026.05.16]/1.jpg',
+    image: '/images/gallery/[2026.05.16] 스승의날/1.jpg',
     images: [
-      '/images/gallery/[2026.05.16]/1.jpg',
-      '/images/gallery/[2026.05.16]/2.jpg',
-      '/images/gallery/[2026.05.16]/3.jpg'
+      '/images/gallery/[2026.05.16] 스승의날/1.jpg',
+      '/images/gallery/[2026.05.16] 스승의날/2.jpg',
+      '/images/gallery/[2026.05.16] 스승의날/3.jpg'
     ]
   },
   { 
@@ -274,11 +274,11 @@ export const BOARD_ITEMS: BoardItem[] = [
     title: '연구실 송별회 (Farewell Party)', 
     date: '2026-04-24', 
     type: 'Gallery', 
-    image: '/images/gallery/[2026.04.24]/1.jpg',
+    image: '/images/gallery/[2026.04.24] farewell/1.jpg',
     images: [
-      '/images/gallery/[2026.04.24]/1.jpg',
-      '/images/gallery/[2026.04.24]/2.jpg',
-      '/images/gallery/[2026.04.24]/3.jpg'
+      '/images/gallery/[2026.04.24] farewell/1.jpg',
+      '/images/gallery/[2026.04.24] farewell/2.jpg',
+      '/images/gallery/[2026.04.24] farewell/3.jpg'
 
     ]
   },
@@ -287,15 +287,15 @@ export const BOARD_ITEMS: BoardItem[] = [
     title: 'The 12th Korean Symposium on Graphene and 2D Materials', 
     date: '2025-07-09', 
     type: 'Gallery', 
-    image: '/images/gallery/[2025.07.09]/1.jpg',
+    image: '/images/gallery/[2025.07.09] 그래핀학회/1.jpg',
     images: [
-      '/images/gallery/[2025.07.09]/1.jpg',
-      '/images/gallery/[2025.07.09]/2.jpg',
-      '/images/gallery/[2025.07.09]/3.jpg',
-      '/images/gallery/[2025.07.09]/4.jpg',
-      '/images/gallery/[2025.07.09]/5.jpg',
-      '/images/gallery/[2025.07.09]/6.jpg',
-      '/images/gallery/[2025.07.09]/7.jpg'
+      '/images/gallery/[2025.07.09] 그래핀학회/1.jpg',
+      '/images/gallery/[2025.07.09] 그래핀학회/2.jpg',
+      '/images/gallery/[2025.07.09] 그래핀학회/3.jpg',
+      '/images/gallery/[2025.07.09] 그래핀학회/4.jpg',
+      '/images/gallery/[2025.07.09] 그래핀학회/5.jpg',
+      '/images/gallery/[2025.07.09] 그래핀학회/6.jpg',
+      '/images/gallery/[2025.07.09] 그래핀학회/7.jpg'
     ]
   },
   { 
@@ -303,12 +303,12 @@ export const BOARD_ITEMS: BoardItem[] = [
     title: '스승의 날(National Teacher Day)', 
     date: '2025-05-17', 
     type: 'Gallery', 
-    image: '/images/gallery/[2025.05.17]/main.jpg',
+    image: '/images/gallery/[2025.05.17] 스승의날/main.jpg',
     images: [
-      '/images/gallery/[2025.05.17]/main.jpg',
-      '/images/gallery/[2025.05.17]/1.jpg',
-      '/images/gallery/[2025.05.17]/2.jpg',
-      '/images/gallery/[2025.05.17]/dd.jpg'
+      '/images/gallery/[2025.05.17] 스승의날/main.jpg',
+      '/images/gallery/[2025.05.17] 스승의날/1.jpg',
+      '/images/gallery/[2025.05.17] 스승의날/2.jpg',
+      '/images/gallery/[2025.05.17] 스승의날/dd.jpg'
     ]
   },
   { 
@@ -316,10 +316,10 @@ export const BOARD_ITEMS: BoardItem[] = [
     title: 'Graduation congratulations', 
     date: '2024-01-26', 
     type: 'Gallery', 
-    image: '/images/gallery/[2024.01.26]/1.jpg',
+    image: '/images/gallery/[2024.01.26] Graduation congratulations/1.jpg',
     images: [
-      '/images/gallery/[2024.01.26]/1.jpg',
-      '/images/gallery/[2024.01.26]/1-1.jpg'
+      '/images/gallery/[2024.01.26] Graduation congratulations/1.jpg',
+      '/images/gallery/[2024.01.26] Graduation congratulations/1-1.jpg'
     ]
   },
   { 
@@ -327,14 +327,14 @@ export const BOARD_ITEMS: BoardItem[] = [
     title: 'Workshop in Jeju', 
     date: '2023-08-29', 
     type: 'Gallery', 
-    image: '/images/gallery/[2023.08.29]/2.jpg',
+    image: '/images/gallery/[2023.08.29] Workshop in Jeju/2.jpg',
     images: [
-      '/images/gallery/[2023.08.29]/2.jpg',
-      '/images/gallery/[2023.08.29]/2-1.jpg',
-      '/images/gallery/[2023.08.29]/2-2.jpg',
-      '/images/gallery/[2023.08.29]/2-3.jpg',
-      '/images/gallery/[2023.08.29]/2-4.png',
-      '/images/gallery/[2023.08.29]/2-5.jpg'
+      '/images/gallery/[2023.08.29] Workshop in Jeju/2.jpg',
+      '/images/gallery/[2023.08.29] Workshop in Jeju/2-1.jpg',
+      '/images/gallery/[2023.08.29] Workshop in Jeju/2-2.jpg',
+      '/images/gallery/[2023.08.29] Workshop in Jeju/2-3.jpg',
+      '/images/gallery/[2023.08.29] Workshop in Jeju/2-4.png',
+      '/images/gallery/[2023.08.29] Workshop in Jeju/2-5.jpg'
     ]
   },
   { 
