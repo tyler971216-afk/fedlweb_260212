@@ -75,16 +75,6 @@ export const MEMBERS: Member[] = [
   //Postdoctoral researcher
   {
     id: 'pd1',
-    name: '김범진',
-    nameEn: 'Beomjin Kim',
-    role: 'Postdoctoral researcher',
-    email: 'answjd9688@naver.com',
-    researchArea: '2D material based optoelectronics, Mechanical Analysis',
-    image: '/images/members/bj.png',
-    category: 'Post doctors'
-  },
-  {
-    id: 'pd2',
     name: '지승현',
     nameEn: 'Seunghyeon Ji',
     role: 'Postdoctoral researcher',
@@ -94,7 +84,7 @@ export const MEMBERS: Member[] = [
     category: 'Post doctors'
   },
   {
-    id: 'pd3',
+    id: 'pd2',
     name: 'Xu Duo',
     nameEn: ' ',
     role: 'Postdoctoral researcher',
@@ -185,9 +175,11 @@ export const MEMBERS: Member[] = [
   { id: 'al47', name: 'Hu Lu Hing', degree: 'Ph.D', currentInstitution: 'Samsung Advanced Institute of Technology (SAIT)', category: 'Alumni', image: '', role: 'Alumni' },
   { id: 'al48', name: 'Hoàng Tuấn', degree: 'Ph.D', currentInstitution: 'Stanford University', category: 'Alumni', image: '', role: 'Alumni' },
   { id: 'al49', name: '김제중 (Kim, Jejung)', degree: 'Ph.D', currentInstitution: 'Samsung Electronics', category: 'Alumni', image: '', role: 'Alumni' },
-  { id: 'al50', name: '신희창', degree: 'Ph.D', currentInstitution: 'Samsung Electronics', category: 'Alumni', image: '', role: 'Alumni' },
-  { id: 'al51', name: '이혜령', degree: 'M.S.', currentInstitution: 'Samsung Electronics', category: 'Alumni', image: '', role: 'Alumni' },
-  { id: 'al52', name: '양승민', degree: 'M.S.', currentInstitution: 'UC Berkeley', category: 'Alumni', image: '', role: 'Alumni' }
+  { id: 'al50', name: '신희창 (Shin, Heechang)', degree: 'Ph.D', currentInstitution: 'Samsung Electronics', category: 'Alumni', image: '', role: 'Alumni' },
+  { id: 'al51', name: '이혜령 (Lee Hyeryeong)', degree: 'M.S.', currentInstitution: 'Samsung Electronics', category: 'Alumni', image: '', role: 'Alumni' },
+  { id: 'al52', name: '양승민 (Yang Seungmin)', degree: 'M.S.', currentInstitution: 'UC Berkeley', category: 'Alumni', image: '', role: 'Alumni' },
+  { id: 'al53', name: '김정아 (Kim, Jeong-A)', degree: 'M.S.', currentInstitution: 'KLA', category: 'Alumni', image: '', role: 'Alumni' },
+  { id: 'al54', name: '김범진 (Kim, Beomjin)', degree: 'Ph.D', currentInstitution: 'OpenAI', category: 'Alumni', image: '', role: 'Alumni' }
 ];
 
 export const BOARD_ITEMS: BoardItem[] = [
