@@ -458,6 +458,8 @@ const PublicationDetail: React.FC<PublicationDetailProps> = ({ period, onBack })
             <section id="year-2026" className="scroll-mt-40">
               <div className="flex items-center space-x-4 mb-12"><h2 className="text-4xl font-black text-[#131C31]">2026</h2><div className="h-1 flex-grow bg-blue-600 rounded-full"></div></div>
               {renderPubList([
+                { num: 12, text: 'J. Zhu et al., "Supramolecular poly(vinyl alcohol) eutectic hydrogels/graphene-based multifunctional electronics enabled by hydrogen-bond regulation and ion-electron dual conduction", Chemical Engineering Journal (in progress)', img: '/images/2026/12.jpg' },
+                { num: 11, text: 'J. Choi, H. Kim, et al., "Wafer-scale synthesis of WSe2 for high-performance p-type top-gated transistors and logic circuits", Science Advances, 12(41), eaef4354 (2026)', img: '/images/2026/11.jpg' },
                 { num: 10, text: 'P. Liu et al., "Multi-scaled Dynamic Interactions and Covalent Integration Enable Durable and Self-Healing Iontronic Skin for Wearable and Implantable Sensing", Adv. Func. Mate., e76648 (2026)', img: '/images/2026/10.jpg' },
                 { num: 9, text: 'W. Guo, C. Wu, J. Choi, et al., "Layered Graphene/Hydrogel-based Multi-Modal Sensors Enabled by Ion-Electron Synergistic Conduction", Small, 22(40), e73949 (2026)', img: '/images/2026/9.jpg' },
                 { num: 8, text: 'J. Kim, H. Lee, J. Hong et al., "Phantom Brain model Replicating Multiple ECoG Signals for Preclinical Device Testing", IEEE Trans. Biomed. Eng.', img: '/images/2026/8.jpg' },
